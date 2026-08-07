@@ -3,18 +3,18 @@
 Task Manager is a Python project used for making a list of things that are to be do. It helps in remembering tasks.
 
 # Features
-1- View tasks list
-2- Add task
-3- Mark task as completed
-4- Delete task
-5- Exit program
+- View tasks list
+- Add task
+- Mark task as completed
+- Delete task
+- Exit program
 
 # How to run it
 Start the program, then write the number of what you want to use in the task list menu.
 
 # Technologies
 - Python
-- JSon
+- JSON
 - Object oriented programming
 
 # What I learned
